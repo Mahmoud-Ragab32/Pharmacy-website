@@ -1,2 +1,2 @@
-# Pharmacy-website
-a website for a pharmacy
+# Al_Eksakhana
+Pharamsy Website Front End
