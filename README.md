@@ -1,2 +1,2 @@
 # Al_Eksakhana
-Pharamsy Website Front End
+a front end website for a pharmacy
